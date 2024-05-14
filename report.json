@@ -1,0 +1,233 @@
+[
+    {
+        "hash": "0f6664b78a97cf5d26c3052a2912a481",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "79ab3a4cf7d57ca1f452654bb6c34f3a",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "82cccda594637565d3abf054a83e84a9",
+        "description": "Big_Numbers0",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "341651cc68e1df76cba85518418767f7",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "d8a42bdfcb2ec6a2bf698ac7bff9a6a2",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "6f60b8ada0317a772c1b638b45d01e85",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "d9961c57c31b40a8caa3e9eadeb5db45",
+        "description": "CRC32_poly_Constant",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "89c07565aa8bec583605941058a7e979",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "49eb5403aa2e394bba5951e314a2c960",
+        "description": "CRC32_poly_Constant",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "d678aca99fdde22a3db8a41bd64b975e",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "d79ca7d6d747baf20a16277ef632fb95",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "134a5526f9526a514a9dadb63fe59d70",
+        "description": "Big_Numbers0",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "d953c7211cf3748cab97f9f62f20e819",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "ea10830fc4d4f95feb97ae27699ea026",
+        "description": "CRC32_poly_Constant",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "cbd16043831c0bd408d3b8f5e3c72ce4",
+        "description": "BASE64_table",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "9d70c1f6a70f855222155c8b1af5b37a",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "17bb66a4e169b6067cd3d6df1b322cb2",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "188b396ecac5e27a8f057b8fbb7247cf",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "76ea0de857dcf243876ee6d2948101cd",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "ccb85d6ff31db9b08d25fbe3063b8083",
+        "description": "Big_Numbers0",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "40a3bea66ba92125e3848a05104f5595",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "0afa9bd1490ef7f5081aee6496af9ae0",
+        "description": "CRC32_poly_Constant",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "5942028da2c8d9b89ae0588728ad1bb7",
+        "description": "ppaction",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "0133782eea345b61750c5c20fa4731ed",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "36e25e0f50eec8c65ce0bcaf38b53c07",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "c5431cf2d5fb161a4c2e6375673f9440",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "ae3181b4898288d2c1feb1c7e2951feb",
+        "description": "Big_Numbers1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "f781d2aff6addf9ae5385d17c518df1e",
+        "description": "Big_Numbers0",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "349214c68a8eed00a8046631e70a4d8a",
+        "description": "maldoc_getEIP_method_1",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    },
+    {
+        "hash": "b8cb36cedfc74c2e964b003277bd0f8f",
+        "description": "PasswordinURL",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 104
+    },
+    {
+        "hash": "58dcd67d7e5553cd0796570c1c6c1fe4",
+        "description": "Highentropy",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 10
+    },
+    {
+        "hash": "146141e84b59f719457c83e513b6150a",
+        "description": "The binary can use the NSLog function for logging. Confidential information should never be recorded.",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 84
+    },
+    {
+        "hash": "8e40a213417f2767f2106e41fe6be9e4",
+        "description": "Ensure top-level permissions are not set to write-all",
+        "severity": "Warning",
+        "file": "Please upgrade to PRO",
+        "line": 1
+    }
+]
