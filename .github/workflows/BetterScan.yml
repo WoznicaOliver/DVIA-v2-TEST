@@ -11,7 +11,3 @@ jobs:
         uses: topcodersonline/betterscancustom@v1
         with:
          branch: ${{ github.head_ref || github.ref_name }}
-      - name: Upload the SARIF file
-        uses: github/codeql-action/upload-sarif@v2
-        with:
-          sarif_file: report.sarif
