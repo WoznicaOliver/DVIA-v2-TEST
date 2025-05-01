@@ -20,7 +20,7 @@ jobs:
       with:
         args: '. --sarif --output results.sarif || true'
     - name: map sarif results
-      run: python SARIF_mapper.py results.sarif
+      run: python SARIF_Mapper.py results.sarif
     - name: Upload mobsfscan report
       uses: github/codeql-action/upload-sarif@v3
       with:
