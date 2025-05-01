@@ -25,3 +25,8 @@ jobs:
       uses: github/codeql-action/upload-sarif@v3
       with:
         sarif_file: results_mapped.sarif
+    - name: Upload SARIF as artifact    
+      uses: actions/upload-artifact@v4
+      with:
+          name: sarif-artifact
+          path: results_mapped.sarif
