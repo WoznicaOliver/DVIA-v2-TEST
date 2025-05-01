@@ -19,6 +19,8 @@ jobs:
       uses: MobSF/mobsfscan@main
       with:
         args: '. --sarif --output results.sarif || true'
+    - name: map sarif results
+      run: python SARIF_mapper.py results.sarif
     - name: Upload mobsfscan report
       uses: github/codeql-action/upload-sarif@v3
       with:
